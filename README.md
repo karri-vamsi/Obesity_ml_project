@@ -62,7 +62,7 @@ Each model was evaluated using:
 ## 🛠️ Tech Stack
 
 - Python
-- pandas, numpy, matplotlib, seaborn
+- pandas, numpy, matplotlib
 - scikit-learn (KNN, SVM, Random Forest, scaling, metrics)
 - tensorflow / keras (for ANN)
 
